@@ -1,5 +1,7 @@
 # HR Analytics Dashboard
+## Dashboard Preview
 
+![Dashboard](dashboard-screenshot.png)
 ## Project Overview
 This project analyzes employee attrition data to identify workforce trends and support HR decision-making.
 
